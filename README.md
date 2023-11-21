@@ -5,5 +5,5 @@
 > Para Rodar este Projeto, Por Favot Digite:
 >
 > '''
-> npm projetct react
+>node app.js
 > '''
